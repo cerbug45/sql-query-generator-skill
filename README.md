@@ -59,7 +59,7 @@ SecurityLevel.PERMISSIVE  # Minimal validation (NOT RECOMMENDED)
 ### Basic Installation
 
 ```bash
-git clone https://github.com/yourusername/sql-query-generator.git
+git clone https://github.com/cerbug45/sql-query-generator.git
 cd sql-query-generator
 
 # No external dependencies for core functionality
