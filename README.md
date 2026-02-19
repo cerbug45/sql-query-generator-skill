@@ -6,6 +6,15 @@ AI-powered SQL query generator with **100x enhanced security** features, designe
 
 ## 🛡️ Security Features
 
+### New in latest update (10x workflow boost)
+- Table allowlist policy (`allowed_tables`) to hard-block unauthorized table access.
+- Offset pagination support (`offset`) with validation.
+- Structured query analysis (`analyze_query`) with:
+  - complexity score (0-100)
+  - risk score (0-100)
+  - actionable recommendations
+  - machine-friendly tags (for CI/automation)
+
 ### Core Security Mechanisms
 
 1. **SQL Injection Prevention**
