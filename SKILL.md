@@ -1,3 +1,9 @@
+---
+name: sql-query-generator
+description: Generate secure SQL queries with validation, pagination helpers, risk analysis, and audit-focused safeguards.
+version: 0.3.0
+---
+
 # SQL Query Generator Skill
 
 ## Overview
